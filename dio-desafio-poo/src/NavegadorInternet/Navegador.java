@@ -11,6 +11,6 @@ public class Navegador implements NavegadorInternet {
     }
 
     public void exibirPagina() {
-        System.out.println("Exibindo página: ");
+        System.out.println("Exibindo página!");
     }
 }

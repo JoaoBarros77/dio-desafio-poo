@@ -9,6 +9,6 @@ public class AppMusica implements ReprodutorMusical {
     }
 
     public void selecionarmusica(){
-        System.out.println("Selecione a música: ");
+        System.out.println("Selecionando a música");
     }
 }
